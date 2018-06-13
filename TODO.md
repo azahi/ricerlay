@@ -2,7 +2,7 @@
 
 * `app-misc/colors` (http://git.2f30.org/colors/)
 * `app-misc/ly` (https://github.com/cylgom/ly)
-* `app-misc/pywal` (https://github.com/dylanaraps/pywal)
+* ~~`app-misc/pywal` (https://github.com/dylanaraps/pywal)~~ Added 6/12/18
 * `app-misc/urnn` (https://github.com/nixers-projects/urnn)
 * `games-misc/nms` (https://github.com/bartobri/no-more-secrets)
 * `games-misc/tewisay` (https://github.com/lucy/tewisay)
