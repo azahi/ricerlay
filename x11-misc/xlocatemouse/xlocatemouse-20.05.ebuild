@@ -26,7 +26,7 @@ IUSE=""
 
 DEPEND="x11-libs/libX11"
 RDEPEND="${DEPEND}"
-BDEPEND=""
+BDEPEND="virtual/pkgconfig"
 
 PATCHES=(
 	"${FILESDIR}/${P}-makefile.patch"
